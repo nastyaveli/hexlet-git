@@ -1,1 +1,2 @@
-Haskell Curry
+пупус
+welcom to russia
